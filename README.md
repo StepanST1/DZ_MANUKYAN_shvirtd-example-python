@@ -72,7 +72,7 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 
 ![Запуск проекта](img/Screenshot_5.png)
 
-![Результат](img/Screenshot_6.png)
+![Результат](img/Screenshot_7.png)
 
 
 ### Задача 6
@@ -80,5 +80,5 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 
 ### Ответ
 
-![TASK6](img/Screenshot_7.png)
-![TASK6_2](img/Screenshot_8.png)
+![TASK6](img/Screenshot_8.png)
+![TASK6_2](img/Screenshot_9.png)
