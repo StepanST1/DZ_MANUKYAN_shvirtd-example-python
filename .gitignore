@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS / editor temp
+.DS_Store
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Docker/local data (если появится)
+db_data/
+
+# Accidental generated folders (чтобы не закоммитить мусор)
+default.conf/
+haproxy.cfg/
