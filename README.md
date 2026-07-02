@@ -82,3 +82,5 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 
 ![TASK6](img/Screenshot_8.png)
 ![TASK6_2](img/Screenshot_9.png)
+![TASK6_3](img/Screenshot_11.png)
+![TASK6_4](img/Screenshot_12.png)
