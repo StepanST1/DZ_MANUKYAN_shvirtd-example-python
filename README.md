@@ -68,7 +68,17 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения docker ps -a
 Повторите SQL-запрос на сервере и приложите скриншот и ссылку на fork.`
 
+### Ответ
 
 ![Запуск проекта](img/Screenshot_5.png)
 
-![Результат](img/Screenshot_5.png)
+![Результат](img/Screenshot_6.png)
+
+
+### Задача 6
+`Скачайте docker образ hashicorp/terraform:latest и скопируйте бинарный файл /bin/terraform на свою локальную машину, используя dive и docker save. Предоставьте скриншоты действий .`
+
+### Ответ
+
+![TASK6](img/Screenshot_7.png)
+![TASK6_2](img/Screenshot_8.png)
